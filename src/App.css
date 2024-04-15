@@ -1,0 +1,12 @@
+.container {
+  background-image: url('./assets/background.gif');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: black; /* Example: set color for text */
+  font-size: 24px; /* Example: set font size for text */
+}

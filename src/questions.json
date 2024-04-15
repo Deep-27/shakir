@@ -1,0 +1,403 @@
+[
+    {
+      "question": "Which of the following is a type of multivariate visualization?",
+      "options": ["Scatter Plot", "Pie Chart", "Bar Graph", "Line Graph"],
+      "correctAnswer": "Scatter Plot"
+    },
+    {
+      "question": "What is a common purpose of multivariate data visualization?",
+      "options": ["Identifying patterns", "Representing a single variable", "Creating pie charts", "Counting occurrences"],
+      "correctAnswer": "Identifying patterns"
+    },
+    {
+      "question": "What does a parallel coordinates plot display?",
+      "options": ["Multiple variables simultaneously", "Single variable over time", "Spatial data", "Hierarchical data"],
+      "correctAnswer": "Multiple variables simultaneously"
+    },
+    {
+      "question": "In a heatmap, what do different colors represent?",
+      "options": ["Categories", "Numeric values", "Time intervals", "Geographical regions"],
+      "correctAnswer": "Numeric values"
+    },
+    {
+      "question": "What is a common use of a scatter plot matrix?",
+      "options": ["Identifying correlations between variables", "Displaying hierarchical data", "Visualizing spatial data", "Representing time series data"],
+      "correctAnswer": "Identifying correlations between variables"
+    },
+    {
+      "question": "What is a choropleth map primarily used for?",
+      "options": ["Showing spatial distribution of data", "Displaying time series data", "Comparing multiple variables", "Visualizing hierarchical data"],
+      "correctAnswer": "Showing spatial distribution of data"
+    },
+    {
+      "question": "What does the size of a bubble represent in a bubble chart?",
+      "options": ["Frequency of occurrence", "Geographical area", "Temporal duration", "Numeric value"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What is the purpose of a Sankey diagram?",
+      "options": ["Visualizing flow and relationships", "Representing spatial data", "Comparing frequencies", "Displaying time series data"],
+      "correctAnswer": "Visualizing flow and relationships"
+    },
+    {
+      "question": "Which of the following is an advantage of using treemaps for data visualization?",
+      "options": ["Efficiently displaying hierarchical data", "Showing time series data", "Comparing multiple variables", "Representing flow and relationships"],
+      "correctAnswer": "Efficiently displaying hierarchical data"
+    },
+    {
+      "question": "What does the angle of a radial plot represent?",
+      "options": ["Numeric value", "Time interval", "Geographical direction", "Category"],
+      "correctAnswer": "Category"
+    },
+    {
+      "question": "Which type of chart is suitable for displaying changes in a single variable over time?",
+      "options": ["Line graph", "Scatter plot", "Heatmap", "Bar chart"],
+      "correctAnswer": "Line graph"
+    },
+    {
+      "question": "What is a common limitation of pie charts?",
+      "options": ["Difficulty in comparing proportions", "Inability to represent percentages", "Inefficient use of space", "Lack of color options"],
+      "correctAnswer": "Difficulty in comparing proportions"
+    },
+    {
+      "question": "What is the primary purpose of box plots?",
+      "options": ["Displaying the distribution of data", "Comparing multiple variables", "Representing time series data", "Visualizing hierarchical data"],
+      "correctAnswer": "Displaying the distribution of data"
+    },
+    {
+      "question": "What does the length of a bar represent in a bar chart?",
+      "options": ["Frequency of occurrence", "Geographical area", "Temporal duration", "Numeric value"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What is a common use of a radar chart?",
+      "options": ["Comparing multiple variables", "Visualizing time series data", "Displaying hierarchical data", "Representing spatial data"],
+      "correctAnswer": "Comparing multiple variables"
+    },
+    {
+      "question": "What is the purpose of a network diagram?",
+      "options": ["Illustrating relationships between entities", "Representing time series data", "Comparing frequencies", "Displaying hierarchical data"],
+      "correctAnswer": "Illustrating relationships between entities"
+    },
+    {
+      "question": "Which of the following is a drawback of using pie charts?",
+      "options": ["Difficulty in comparing values", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Difficulty in comparing values"
+    },
+    {
+      "question": "What does the x-axis typically represent in a scatter plot?",
+      "options": ["Independent variable", "Dependent variable", "Time", "Geographical location"],
+      "correctAnswer": "Independent variable"
+    },
+    {
+      "question": "What does the y-axis typically represent in a scatter plot?",
+      "options": ["Dependent variable", "Independent variable", "Time", "Geographical location"],
+      "correctAnswer": "Dependent variable"
+    },
+    {
+      "question": "What is a dendrogram used for?",
+      "options": ["Displaying hierarchical clustering", "Comparing multiple variables", "Representing spatial data", "Visualizing time series data"],
+      "correctAnswer": "Displaying hierarchical clustering"
+    },
+    {
+      "question": "What does a contour plot visualize?",
+      "options": ["3D data on a 2D surface", "Hierarchical data", "Temporal data", "Spatial data"],
+      "correctAnswer": "3D data on a 2D surface"
+    },
+    {
+      "question": "What is the primary purpose of a ternary plot?",
+      "options": ["Visualizing compositions of three variables", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing compositions of three variables"
+    },
+    {
+      "question": "What is the primary purpose of a dendrogram?",
+      "options": ["Displaying hierarchical clustering", "Comparing multiple variables", "Representing spatial data", "Visualizing time series data"],
+      "correctAnswer": "Displaying hierarchical clustering"
+    },
+    {
+      "question": "What does a sunburst chart represent?",
+      "options": ["Hierarchical data", "Time series data", "Comparative data", "Temporal data"],
+      "correctAnswer": "Hierarchical data"
+    },
+    {
+      "question": "What is a common use of a mosaic plot?",
+      "options": ["Visualizing contingency tables", "Comparing multiple variables", "Representing spatial data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing contingency tables"
+    },
+    {
+      "question": "What is the primary use of a word cloud?",
+      "options": ["Visualizing textual data", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing textual data"
+    },
+    {
+      "question": "What does the thickness of a line represent in a flow diagram?",
+      "options": ["Frequency of occurrence", "Geographical area", "Temporal duration", "Numeric value"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "Which of the following is a disadvantage of using radar charts?",
+      "options": ["Difficulty in comparing values", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Inefficient use of space"
+    },
+    {
+      "question": "What is the primary purpose of a treemap?",
+      "options": ["Displaying hierarchical data", "Comparing multiple variables", "Representing time series data", "Visualizing spatial data"],
+      "correctAnswer": "Displaying hierarchical data"
+    },
+    {
+      "question": "What is a common use of a spider plot?",
+      "options": ["Comparing multiple variables", "Visualizing time series data", "Displaying hierarchical data", "Representing spatial data"],
+      "correctAnswer": "Comparing multiple variables"
+    },
+    {
+      "question": "What does the color saturation represent in a heat map?",
+      "options": ["Magnitude of the value", "Time", "Frequency of occurrence", "Geographical area"],
+      "correctAnswer": "Magnitude of the value"
+    },
+    {
+      "question": "What is the primary use of a node-link diagram?",
+      "options": ["Illustrating relationships between entities", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Illustrating relationships between entities"
+    },
+    {
+      "question": "What does a ternary plot visualize?",
+      "options": ["Compositions of three variables", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Compositions of three variables"
+    },
+    {
+      "question": "What is a common limitation of bubble charts?",
+      "options": ["Difficulty in comparing sizes accurately", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Difficulty in comparing sizes accurately"
+    },
+    {
+      "question": "What does a treemap visualize?",
+      "options": ["Hierarchical data", "Comparative data", "Temporal data", "Spatial data"],
+      "correctAnswer": "Hierarchical data"
+    },
+    {
+      "question": "What is a common use of a contour plot?",
+      "options": ["Visualizing 3D data on a 2D surface", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing 3D data on a 2D surface"
+    },
+    {
+      "question": "What does the angle of a pie slice represent?",
+      "options": ["Percentage of the whole", "Magnitude of the value", "Frequency of occurrence", "Geographical area"],
+      "correctAnswer": "Percentage of the whole"
+    },
+    {
+      "question": "What is a common use of a dendrogram?",
+      "options": ["Displaying hierarchical clustering", "Comparing frequencies", "Representing time series data", "Visualizing spatial data"],
+      "correctAnswer": "Displaying hierarchical clustering"
+    },
+    {
+      "question": "What does the length of a bar represent in a bar chart?",
+      "options": ["Frequency of occurrence", "Magnitude of the value", "Temporal duration", "Geographical area"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What does the area of a bubble represent in a bubble chart?",
+      "options": ["Magnitude of the value", "Frequency of occurrence", "Temporal duration", "Geographical area"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What is a common limitation of pie charts?",
+      "options": ["Difficulty in comparing values accurately", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Difficulty in comparing values accurately"
+    },
+    {
+      "question": "What is the primary purpose of a network diagram?",
+      "options": ["Illustrating relationships between entities", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Illustrating relationships between entities"
+    },
+    {
+      "question": "What does the thickness of a line represent in a flow diagram?",
+      "options": ["Magnitude of the value", "Frequency of occurrence", "Temporal duration", "Geographical area"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What does a contour plot visualize?",
+      "options": ["3D data on a 2D surface", "Hierarchical data", "Temporal data", "Spatial data"],
+      "correctAnswer": "3D data on a 2D surface"
+    },
+    {
+      "question": "What is the primary purpose of a ternary plot?",
+      "options": ["Visualizing compositions of three variables", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing compositions of three variables"
+    },
+    {
+      "question": "What is the primary purpose of a dendrogram?",
+      "options": ["Displaying hierarchical clustering", "Comparing multiple variables", "Representing spatial data", "Visualizing time series data"],
+      "correctAnswer": "Displaying hierarchical clustering"
+    },
+    {
+      "question": "What does a sunburst chart represent?",
+      "options": ["Hierarchical data", "Time series data", "Comparative data", "Temporal data"],
+      "correctAnswer": "Hierarchical data"
+    },
+    {
+      "question": "What is a common use of a mosaic plot?",
+      "options": ["Visualizing contingency tables", "Comparing multiple variables", "Representing spatial data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing contingency tables"
+    },
+    {
+      "question": "What is the primary use of a word cloud?",
+      "options": ["Visualizing textual data", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing textual data"
+    },
+    {
+      "question": "What does the thickness of a line represent in a flow diagram?",
+      "options": ["Frequency of occurrence", "Geographical area", "Temporal duration", "Numeric value"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "Which of the following is a disadvantage of using radar charts?",
+      "options": ["Difficulty in comparing values", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Inefficient use of space"
+    },
+    {
+      "question": "What is the primary purpose of a treemap?",
+      "options": ["Displaying hierarchical data", "Comparing multiple variables", "Representing time series data", "Visualizing spatial data"],
+      "correctAnswer": "Displaying hierarchical data"
+    },
+    {
+      "question": "What is a common use of a spider plot?",
+      "options": ["Comparing multiple variables", "Visualizing time series data", "Displaying hierarchical data", "Representing spatial data"],
+      "correctAnswer": "Comparing multiple variables"
+    },
+    {
+      "question": "What does the color saturation represent in a heat map?",
+      "options": ["Magnitude of the value", "Time", "Frequency of occurrence", "Geographical area"],
+      "correctAnswer": "Magnitude of the value"
+    },
+    {
+      "question": "What is the primary use of a node-link diagram?",
+      "options": ["Illustrating relationships between entities", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Illustrating relationships between entities"
+    },
+    {
+      "question": "What does a ternary plot visualize?",
+      "options": ["Compositions of three variables", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Compositions of three variables"
+    },
+    {
+      "question": "What is a common limitation of bubble charts?",
+      "options": ["Difficulty in comparing sizes accurately", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Difficulty in comparing sizes accurately"
+    },
+    {
+      "question": "What does a treemap visualize?",
+      "options": ["Hierarchical data", "Comparative data", "Temporal data", "Spatial data"],
+      "correctAnswer": "Hierarchical data"
+    },
+    {
+      "question": "What is a common use of a contour plot?",
+      "options": ["Visualizing 3D data on a 2D surface", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing 3D data on a 2D surface"
+    },
+    {
+      "question": "What does the angle of a pie slice represent?",
+      "options": ["Percentage of the whole", "Magnitude of the value", "Frequency of occurrence", "Geographical area"],
+      "correctAnswer": "Percentage of the whole"
+    },
+    {
+      "question": "What is a common use of a dendrogram?",
+      "options": ["Displaying hierarchical clustering", "Comparing frequencies", "Representing time series data", "Visualizing spatial data"],
+      "correctAnswer": "Displaying hierarchical clustering"
+    },
+    {
+      "question": "What does the length of a bar represent in a bar chart?",
+      "options": ["Frequency of occurrence", "Magnitude of the value", "Temporal duration", "Geographical area"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What does the area of a bubble represent in a bubble chart?",
+      "options": ["Magnitude of the value", "Frequency of occurrence", "Temporal duration", "Geographical area"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What is a common limitation of pie charts?",
+      "options": ["Difficulty in comparing values accurately", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Difficulty in comparing values accurately"
+    },
+    {
+      "question": "What is the primary purpose of a network diagram?",
+      "options": ["Illustrating relationships between entities", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Illustrating relationships between entities"
+    },
+    {
+      "question": "What does the thickness of a line represent in a flow diagram?",
+      "options": ["Magnitude of the value", "Frequency of occurrence", "Temporal duration", "Geographical area"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "What does a contour plot visualize?",
+      "options": ["3D data on a 2D surface", "Hierarchical data", "Temporal data", "Spatial data"],
+      "correctAnswer": "3D data on a 2D surface"
+    },
+    {
+      "question": "What is the primary purpose of a ternary plot?",
+      "options": ["Visualizing compositions of three variables", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing compositions of three variables"
+    },
+    {
+      "question": "What is the primary purpose of a dendrogram?",
+      "options": ["Displaying hierarchical clustering", "Comparing multiple variables", "Representing spatial data", "Visualizing time series data"],
+      "correctAnswer": "Displaying hierarchical clustering"
+    },
+    {
+      "question": "What does a sunburst chart represent?",
+      "options": ["Hierarchical data", "Time series data", "Comparative data", "Temporal data"],
+      "correctAnswer": "Hierarchical data"
+    },
+    {
+      "question": "What is a common use of a mosaic plot?",
+      "options": ["Visualizing contingency tables", "Comparing multiple variables", "Representing spatial data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing contingency tables"
+    },
+    {
+      "question": "What is the primary use of a word cloud?",
+      "options": ["Visualizing textual data", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Visualizing textual data"
+    },
+    {
+      "question": "What does the thickness of a line represent in a flow diagram?",
+      "options": ["Frequency of occurrence", "Geographical area", "Temporal duration", "Numeric value"],
+      "correctAnswer": "Frequency of occurrence"
+    },
+    {
+      "question": "Which of the following is a disadvantage of using radar charts?",
+      "options": ["Difficulty in comparing values", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Inefficient use of space"
+    },
+    {
+      "question": "What is the primary purpose of a treemap?",
+      "options": ["Displaying hierarchical data", "Comparing multiple variables", "Representing time series data", "Visualizing spatial data"],
+      "correctAnswer": "Displaying hierarchical data"
+    },
+    {
+      "question": "What is a common use of a spider plot?",
+      "options": ["Comparing multiple variables", "Visualizing time series data", "Displaying hierarchical data", "Representing spatial data"],
+      "correctAnswer": "Comparing multiple variables"
+    },
+    {
+      "question": "What does the color saturation represent in a heat map?",
+      "options": ["Magnitude of the value", "Time", "Frequency of occurrence", "Geographical area"],
+      "correctAnswer": "Magnitude of the value"
+    },
+    {
+      "question": "What is the primary use of a node-link diagram?",
+      "options": ["Illustrating relationships between entities", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Illustrating relationships between entities"
+    },
+    {
+      "question": "What does a ternary plot visualize?",
+      "options": ["Compositions of three variables", "Comparing frequencies", "Representing time series data", "Displaying hierarchical data"],
+      "correctAnswer": "Compositions of three variables"
+    },
+    {
+      "question": "What is a common limitation of bubble charts?",
+      "options": ["Difficulty in comparing sizes accurately", "Inability to represent percentages", "Limited color options", "Inefficient use of space"],
+      "correctAnswer": "Difficulty in comparing sizes accurately"
+    }
+  ]
+  
